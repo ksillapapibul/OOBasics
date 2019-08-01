@@ -1,0 +1,11 @@
+C:\Users\psrivastava\RiderProjects\OOBasics\OOBasics\bin\Debug\netcoreapp2.1\OOBasics.deps.json
+C:\Users\psrivastava\RiderProjects\OOBasics\OOBasics\bin\Debug\netcoreapp2.1\OOBasics.runtimeconfig.json
+C:\Users\psrivastava\RiderProjects\OOBasics\OOBasics\bin\Debug\netcoreapp2.1\OOBasics.runtimeconfig.dev.json
+C:\Users\psrivastava\RiderProjects\OOBasics\OOBasics\bin\Debug\netcoreapp2.1\OOBasics.dll
+C:\Users\psrivastava\RiderProjects\OOBasics\OOBasics\bin\Debug\netcoreapp2.1\OOBasics.pdb
+C:\Users\psrivastava\RiderProjects\OOBasics\OOBasics\obj\Debug\netcoreapp2.1\OOBasics.csprojAssemblyReference.cache
+C:\Users\psrivastava\RiderProjects\OOBasics\OOBasics\obj\Debug\netcoreapp2.1\OOBasics.csproj.CoreCompileInputs.cache
+C:\Users\psrivastava\RiderProjects\OOBasics\OOBasics\obj\Debug\netcoreapp2.1\OOBasics.AssemblyInfoInputs.cache
+C:\Users\psrivastava\RiderProjects\OOBasics\OOBasics\obj\Debug\netcoreapp2.1\OOBasics.AssemblyInfo.cs
+C:\Users\psrivastava\RiderProjects\OOBasics\OOBasics\obj\Debug\netcoreapp2.1\OOBasics.dll
+C:\Users\psrivastava\RiderProjects\OOBasics\OOBasics\obj\Debug\netcoreapp2.1\OOBasics.pdb
